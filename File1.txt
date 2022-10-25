@@ -1,1 +1,2 @@
-TEsting git
+Testing Git
+Testing out pulling from Git Hub
